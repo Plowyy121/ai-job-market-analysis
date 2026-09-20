@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Download the dataset separately from Kaggle.
+ai_jobs_market_2025_2026.csv
+data/raw/*.csv
+
